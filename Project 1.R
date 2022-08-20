@@ -194,3 +194,4 @@ lm_direction_error = 1-(sum(lm_test_data$prediction_accurate)/nrow(lm_test_data)
 print(lm_direction_error)
 
 
+asdasdasdsad
