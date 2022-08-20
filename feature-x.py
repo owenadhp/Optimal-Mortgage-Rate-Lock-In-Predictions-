@@ -1,3 +1,3 @@
 import os
 
-print ('asdfasdf')
+print (2+2)
